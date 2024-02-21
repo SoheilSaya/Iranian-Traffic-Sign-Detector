@@ -1,0 +1,12 @@
+Abstract
+Traffic sign dataset is one of the important elements of CNN based TS-recognition system. 
+Existing  datasets include European and American signs while in many projects we need persian signs.
+ Infact these signs may have main differences in different countries, because of that for the first time
+ in Iran, for implementing persian traffic signs recognition system, we gathered and prepared
+ “Persian Traffic Sign Dataset” which is called as PTSD. This dataset consists of more than 14 thousand 
+cropped traffic signs images in 43 classes for recognition task.
+ In addition to training data, we prepared 2421  imges for testing phase. 
+All images of this collection were taken from the real and natural environments such as 
+streets, highways and roads from different parts of Iran. The advantage of this dataset 
+over similar datasets is the variety of imaging environments, angles, distances and image
+ quality, also in contrary to others, in this dataset different cameras are used for imaging.
