@@ -48,6 +48,6 @@ U-turn Prohibited
 
 
 ![Screenshot](photo_2024-02-21_14-05-23.jpg)
-This is the trained model of amin98hosseini's dataset:  <br />
+This is the trained model of saraparsaseresht's dataset:  <br />
 
-[amin98hosseini](https://www.kaggle.com/datasets/saraparsaseresht/persian-traffic-sign-dataset-ptsd "amin98hosseini")
+[saraparsaseresht](https://www.kaggle.com/datasets/saraparsaseresht/persian-traffic-sign-dataset-ptsd "saraparsaseresht")
